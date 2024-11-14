@@ -1,0 +1,2 @@
+var SUPABASE_URL = "https://yvlpksarbxdybdyrzfba.supabase.co";
+var ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inl2bHBrc2FyYnhkeWJkeXJ6ZmJhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzA2ODE0MjYsImV4cCI6MjA0NjI1NzQyNn0.VwHyvNLE2AEb23OhkKePbs6L7flZw_8G4-rR2HnwKOU";
